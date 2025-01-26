@@ -3,6 +3,8 @@ Hierarchical Item Response Theory (IRT) Models Use hgrm (hIRT) With (In) R Softw
 
 Fitting Hierarchical Graded Response Models (for Ordinal Responses) Use hgrm (hIRT) With (In) R Software
 
+https://www.youtube.com/watch?v=38xBgyDfABk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
